@@ -1,0 +1,15 @@
+D:\2020第二次实训项目\StudentInfo\Model\bin\Debug\Model.dll
+D:\2020第二次实训项目\StudentInfo\Model\bin\Debug\Model.pdb
+D:\2020第二次实训项目\StudentInfo\Model\obj\Debug\Model.dll
+D:\2020第二次实训项目\StudentInfo\Model\obj\Debug\Model.pdb
+D:\2020第二次实训项目\StudentInfo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\Model\bin\Debug\Model.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\Model\bin\Debug\Model.pdb
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\Model\obj\Debug\Model.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\Model\obj\Debug\Model.pdb
+G:\StudentInfo\StudentInfo\Model\bin\Debug\Model.dll
+G:\StudentInfo\StudentInfo\Model\bin\Debug\Model.pdb
+G:\StudentInfo\StudentInfo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\StudentInfo\StudentInfo\Model\obj\Debug\Model.dll
+G:\StudentInfo\StudentInfo\Model\obj\Debug\Model.pdb

@@ -1,0 +1,80 @@
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\StudentInfo.dll
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\DAL.dll
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\DB.dll
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\Model.dll
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\DAL.pdb
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\DB.pdb
+D:\2020第二次实训项目\StudentInfo\StudentInfo\bin\Model.pdb
+D:\2020第二次实训项目\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+D:\2020第二次实训项目\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+D:\2020第二次实训项目\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\StudentInfo.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DAL.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DB.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\Model.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DAL.pdb
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DB.pdb
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\Model.pdb
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+G:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\StudentInfo.dll
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DAL.dll
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DB.dll
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\Model.dll
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DAL.pdb
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\DB.pdb
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\bin\Model.pdb
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+H:\新建文件夹 (2)\大三实训\学生成绩管理系统最终版\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+G:\StudentInfo\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+G:\StudentInfo\StudentInfo\StudentInfo\bin\StudentInfo.dll
+G:\StudentInfo\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+G:\StudentInfo\StudentInfo\StudentInfo\bin\DAL.dll
+G:\StudentInfo\StudentInfo\StudentInfo\bin\DB.dll
+G:\StudentInfo\StudentInfo\StudentInfo\bin\Model.dll
+G:\StudentInfo\StudentInfo\StudentInfo\bin\DAL.pdb
+G:\StudentInfo\StudentInfo\StudentInfo\bin\DB.pdb
+G:\StudentInfo\StudentInfo\StudentInfo\bin\Model.pdb
+G:\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+G:\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+G:\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\StudentInfo.dll
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\DAL.dll
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\DB.dll
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\Model.dll
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\DAL.pdb
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\DB.pdb
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\bin\Model.pdb
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+H:\新建文件夹 (2)\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\StudentInfo.dll.config
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\StudentInfo.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\DAL.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\DB.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\Model.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\System.Net.Http.Formatting.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\System.Web.Http.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\System.Web.Http.WebHost.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\DAL.pdb
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\DB.pdb
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\Model.pdb
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\Newtonsoft.Json.pdb
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\Newtonsoft.Json.xml
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\System.Net.Http.Formatting.xml
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\System.Web.Http.xml
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\bin\System.Web.Http.WebHost.xml
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+E:\A单子\StudentInfo(1)\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
